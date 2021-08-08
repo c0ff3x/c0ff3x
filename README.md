@@ -1,5 +1,13 @@
-### Hi there 👋
+## If you're that means you reached some of my *ugly* projects 👋
 
+You can refer to me like **c0ffex**, I'm learning whaterver related to AI and all their related fields...
+
+🔭 I’m currently working on some projects that I'm no so proud of, many of my projects that **were** listed here does not have any good practices at all, and that's because many of my projects are some kind of experiment, if I *feel* a projects has reached a "stable version", I will make it public on in the profile below. 
+
+Currently all my projects has at the top a legend pointing to this README and that's because I moving to a new host for my projects, if you want to know what projects I'm working on check out my profile on [Gitlab](https://gitlab.com/c0ff3x). In my new profile you can ask me anything 💬 and contact me if you want.
+
+
+> Life doesn't give you what you want, it gives you what you work for.
 <!--
 **c0ff3x/c0ff3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
