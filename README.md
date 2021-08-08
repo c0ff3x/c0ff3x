@@ -1,6 +1,6 @@
 ## If you're here that means you reached some of my *ugly* projects, HI 👋
 
-You can refer to me like **c0ffex**, I'm learning whaterver related to AI and all their related fields...
+You can refer to me like **c0ffex**, I'm learning whatever related to AI and all their related fields...
 
 🔭 I’m currently working on some projects that I'm no so proud of, many of my projects that **were** listed here does not have any good practices at all, and that's because many of my projects are some kind of experiment, if I *feel* a project has reached a "stable version", I will make it public on the profile below. 
 
